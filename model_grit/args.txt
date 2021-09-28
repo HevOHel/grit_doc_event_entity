@@ -1,0 +1,38 @@
+--data_dir ../data/muc/processed 
+--model_type bert 
+--model_name_or_path bert-base-uncased 
+--output_dir model 
+--max_seq_length_src  470 
+--max_seq_length_tgt 40 
+--num_train_epochs 18 
+--train_batch_size 1 
+--eval_batch_size 1 
+--seed 1 
+--n_gpu 1 
+--do_predict 
+--do_train 
+
+
+--data_dir
+../data/muc/processed
+--model_type
+bert
+--model_name_or_path
+bert-base-uncased
+--output_dir
+E:/Codes/Python/抽取/事件抽取/GRIT/grit_doc_event_entity-master/model_grit/model/
+--max_seq_length_src
+470
+--max_seq_length_tgt
+40
+--num_train_epochs
+18
+--train_batch_size
+1
+--eval_batch_size
+1
+--seed
+1
+--n_gpu
+1
+--do_predict
