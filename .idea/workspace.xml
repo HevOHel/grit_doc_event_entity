@@ -30,15 +30,6 @@
   </component>
   <component name="ProjectId" id="1yf2CYqHRkhxfXlXV80qoY79rUs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
   <component name="RunManager" selected="Python.run_pl_s_t">
     <configuration name="run_pl_s_t" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="grit_doc_event_entity-master" />
@@ -95,13 +86,6 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="69127bc4-d07a-4231-ab54-06749e5c09f6" name="Default Changelist" comment="" />
-      <created>1632628195768</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1632628195768</updated>
-    </task>
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2608" y="201" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632838183720">
@@ -125,34 +110,240 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2521" y="320" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1632832006458" />
-    <state width="1899" height="81" key="GridCell.Tab.0.bottom" timestamp="1632997715081">
+    <state width="1497" height="466" key="DebuggerActiveHint" timestamp="1634137443021">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1497" height="466" key="DebuggerActiveHint/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634137443021" />
+    <state width="949" height="77" key="GridCell.Tab.0.bottom" timestamp="1634195731431">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="57" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1632710060100" />
-    <state width="1899" height="81" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1632997715081" />
-    <state width="1899" height="81" key="GridCell.Tab.0.center" timestamp="1632997715081">
+    <state width="949" height="77" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731431" />
+    <state width="949" height="77" key="GridCell.Tab.0.center" timestamp="1634195731431">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="57" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1632710060100" />
-    <state width="1899" height="81" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1632997715081" />
-    <state width="1899" height="81" key="GridCell.Tab.0.left" timestamp="1632997715081">
+    <state width="949" height="77" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731431" />
+    <state width="949" height="77" key="GridCell.Tab.0.left" timestamp="1634195731431">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="57" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1632710060100" />
-    <state width="1899" height="81" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1632997715081" />
-    <state width="1899" height="81" key="GridCell.Tab.0.right" timestamp="1632997715081">
+    <state width="949" height="77" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731431" />
+    <state width="949" height="77" key="GridCell.Tab.0.right" timestamp="1634195731431">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="57" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1632710060100" />
-    <state width="1899" height="81" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1632997715081" />
+    <state width="949" height="77" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731431" />
+    <state width="949" height="77" key="GridCell.Tab.1.bottom" timestamp="1634195731431">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="77" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731431" />
+    <state width="949" height="77" key="GridCell.Tab.1.center" timestamp="1634195731431">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="77" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731431" />
+    <state width="949" height="77" key="GridCell.Tab.1.left" timestamp="1634195731431">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="77" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731431" />
+    <state width="949" height="77" key="GridCell.Tab.1.right" timestamp="1634195731431">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="77" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731431" />
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.2.bottom" timestamp="1634195731428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.2.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731428" />
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.2.center" timestamp="1634195731428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.2.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731428" />
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.2.left" timestamp="1634195731431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.2.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731431" />
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.2.right" timestamp="1634195731428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.2.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731428" />
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.3.bottom" timestamp="1634195731411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.3.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731411" />
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.3.center" timestamp="1634195731410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.3.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731410" />
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.3.left" timestamp="1634195731410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.3.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731410" />
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.3.right" timestamp="1634195731410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="359" width="737" height="585" key="GridCell.Tab.3.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634195731410" />
     <state x="2381" y="164" key="SettingsEditor" timestamp="1632628577544">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="164" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1632628577544" />
-    <state x="521" y="135" width="1242" height="890" key="find.popup" timestamp="1632907422142">
+    <state x="542" y="359" width="753" height="652" key="dock-window-1" timestamp="1634179199103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="359" width="753" height="652" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634179199103" />
+    <state x="521" y="135" width="1242" height="890" key="find.popup" timestamp="1634137258186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="422" y="73" width="1242" height="890" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1632819950954" />
-    <state x="521" y="135" width="1242" height="890" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1632907422142" />
+    <state x="521" y="135" width="1242" height="890" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634137258186" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1634136022338">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1634136022338" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>414</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>415</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/transformer_base.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/transformer_base.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/transformer_base.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/transformer_base.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/transformer_base.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/transformer_base.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda3/envs/grit/Lib/site-packages/transformers/modeling_auto.py</url>
+          <line>372</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda3/envs/grit/Lib/site-packages/transformers/modeling_auto.py</url>
+          <line>371</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda3/envs/grit/Lib/site-packages/transformers/modeling_auto.py</url>
+          <line>374</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda3/envs/grit/Lib/site-packages/transformers/modeling_auto.py</url>
+          <line>375</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda3/envs/grit/Lib/site-packages/transformers/modeling_auto.py</url>
+          <line>376</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/transformer_base.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/transformer_base.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda3/envs/grit/Lib/site-packages/transformers/modeling_auto.py</url>
+          <line>370</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda3/envs/grit/Lib/site-packages/transformers/modeling_auto.py</url>
+          <line>377</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_grit/run_pl_s_t.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
